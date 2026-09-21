@@ -1,0 +1,11 @@
+# امنیت
+- PDO prepared statements و native prepares
+- CSRF برای عملیات state-changing
+- password_hash/password_verify
+- session_regenerate_id بعد از login
+- RBAC در سمت سرور
+- escaping خروجی HTML
+- محدودیت حجم upload
+- SHA-256 برای جلوگیری از import تکراری
+- audit trail برای عملیات حساس
+- CSV هرگز به‌عنوان کد اجرا نمی‌شود.
